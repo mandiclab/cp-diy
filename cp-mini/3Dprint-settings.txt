@@ -1,0 +1,33 @@
+3Dprint settings
+
+Case
+	Support
+		Generate Support: Yes
+		Support Structure: Tree
+		Support Placement: Touching Buildplate
+		Support Overhang Angle: 70deg
+	Build Plate Adhesion
+		Build Plate Adhesion Type: Brim
+
+
+Front Panel
+	No special settings
+
+
+Diffuser
+	No special settings
+
+
+Button Cap
+	Support
+		Generate Support: Yes
+		Support Structure: Tree
+		Support Placement: Touching Buildplate
+
+
+Arduino Cover
+	No special settings
+
+
+Cable Cover
+	No special settings
