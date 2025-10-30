@@ -18,7 +18,7 @@
 - **Software** (.ino):  
   Licensed under the [GPL-3.0](LICENSE-SOFTWARE.txt)
 
-- **Hardware** (.FCStd, .stl):  
+- **Hardware** (.FCStd, .stl, .pretty, .kicad_mod, .kicad_pcb, .kicad_pro, .kicad_sch, .kicad_sym):  
   Licensed under the [CERN-OHL-S-2.0](LICENSE-HARDWARE.txt)
 
 
